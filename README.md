@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+Hello, i'm Karolan 
+I love to dance so I love musica as well
